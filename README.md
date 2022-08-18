@@ -10,6 +10,4 @@ This App provides the functionality of a timer for 60 seconds along with progres
  - The Stop button stops the timer and sets the timer back to default (60 seconds).
 
 # App
-
-
-- Design reference taken from : 
+<img src'https://github.com/FarzamHabibKhan/Timer_App_Flutter/blob/master/timer_app_demo.gif" width=200 height=360>
